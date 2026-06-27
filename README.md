@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parsa</h1>
-<h3 align="center">Python Developer • Linux Enthusiast </h3>
+<h3 align="center">Python Developer • Django Developer</h3>
 
 ---
 
@@ -7,9 +7,7 @@
 
 * 🐍 Building backend applications and automation tools with Python
 * 🐧 Passionate about Linux and open-source technologies
-* ☸️ Currently learning Kubernetes, Docker and DevOps
-* 🛡️ Exploring Cyber Security, SOC and Suricata
-* 📚 Always learning by building real-world projects
+
 
 ---
 
@@ -27,9 +25,7 @@
 
 * Backend Development
 * Linux Automation
-* Docker & Kubernetes
-* Cyber Security
-* Open Source Projects
+
 
 ---
 
